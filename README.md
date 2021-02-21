@@ -1,2 +1,4 @@
 # static
-储存静态资源
+
+储存[收集站](https://www.luotianyi.space)的静态资源
+
